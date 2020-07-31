@@ -1,0 +1,31 @@
+#music_card{
+      position:absolute;
+      right:10%;
+      top:71%;
+          }
+ #dance_card{
+ 	position:absolute;
+ 	top:71%;
+ 	right:73%;
+ }
+#hosting_card{
+	position:absolute;
+	top:71%;
+	right:52%;
+}
+#security_card{
+	position:absolute;
+	top:71%;
+	right:31%;
+}
+#container_2
+{
+	display: inline;
+	width: 100%;
+	height:auto;
+}
+#container
+{
+width: 100%;
+	height:auto;
+}
